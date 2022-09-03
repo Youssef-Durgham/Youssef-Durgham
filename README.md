@@ -17,7 +17,9 @@
 
 - 📄 Know about my experiences [https://ibb.co/QnL6bBK](https://ibb.co/QnL6bBK)
 
-- ⚡ Fun fact **Im funny**
+- ⚡ I love **![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)**
+
+-i could help you with ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) api or websocket project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
