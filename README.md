@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/yusif.dhrgam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusif.dhrgam" height="30" width="40" /></a>
-<a href="https://fb.com/yusif.dhrgam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusif.dhrgam" height="30" width="40" /></a>
+<a href="https://t.me/communication_engineer" target="blank"><img align="center" src="https://toppng.com/public/uploads/thumbnail/telegram-icon-telegram-logo-11563072765o1dcnsfnla.png" alt="yusif.dhrgam" height="30" width="32" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
