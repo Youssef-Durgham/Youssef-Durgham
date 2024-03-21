@@ -19,9 +19,9 @@
 
 - ⚡ I love **![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)**
 
-- i could help you with ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) api or websocket project
-
 - I'm a versatile full-stack programmer skilled in building large systems, mobile applications, desktop applications, and web apps. Whatever your project needs, I can help bring it to life
+
+- i could help you with ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) api or websocket project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
