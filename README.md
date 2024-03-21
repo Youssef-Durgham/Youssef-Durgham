@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **python & machine learning**
 
-- 👨‍💻 All of my projects are available at [https://yousef-durgham.vercel.app](https://www.codeklab.com)
+- 👨‍💻 All of my projects are available at [Codek Lab](https://www.codeklab.com)
 
 - 💬 Ask me about **react.js , next.js**
 
