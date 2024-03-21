@@ -21,6 +21,8 @@
 
 - i could help you with ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) api or websocket project
 
+- I'm a versatile full-stack programmer skilled in building large systems, mobile applications, desktop applications, and web apps. Whatever your project needs, I can help bring it to life
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/yusif.dhrgam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusif.dhrgam" height="30" width="40" /></a>
