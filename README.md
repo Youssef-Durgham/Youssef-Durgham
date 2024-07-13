@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 
-- 🌱 I’m currently learning **python & machine learning**
+- 🌱 I’m currently learning **Python & Machine Learning & Ai**
 
 - 👨‍💻 All of my projects are available at [Codek Lab](https://www.codeklab.com)
 
