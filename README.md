@@ -39,7 +39,7 @@ Visionary full-stack developer with a passion for transforming complex ideas int
     </td>
     <td align="center" width="96">
       <a href="#tailwind">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
@@ -95,7 +95,7 @@ Visionary full-stack developer with a passion for transforming complex ideas int
     </td>
     <td align="center" width="96">
       <a href="#abap">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" width="48" height="48" alt="ABAP" />
+        <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="48" height="48" alt="ABAP" />
       </a>
       <br>ABAP
     </td>
