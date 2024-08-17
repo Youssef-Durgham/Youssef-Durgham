@@ -10,13 +10,7 @@
     <img src="https://img.shields.io/badge/Founder-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
   </a>
   <!-- GitHub Stats -->
-<br><br>
-<img src="https://img.shields.io/github/followers/youssef-durgham?style=for-the-badge&color=0366d6" alt="GitHub Followers">
-<img src="https://img.shields.io/github/stars/youssef-durgham?style=for-the-badge&color=0366d6" alt="GitHub Stars">
-<img src="https://komarev.com/ghpvc/?username=youssef-durgham&style=for-the-badge&color=0366d6" alt="Profile Views">
-  <!-- Tech Enthusiast Badge -->
-<br><br>
-<img src="https://img.shields.io/badge/Tech%20Enthusiast-Full%20Stack%20%7C%20ERP%20%7C%20Crypto-0366d6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA3TDIwIDE3TDQgMTdMNCA3TDIwIDdNMjEgNUwzIDVDMS45IDUgMSA1LjkgMSA3TDEgMTdDMSAxOC4xIDEuOSAxOSAzIDE5TDIxIDE5QzIyLjEgMTkgMjMgMTguMSAyMyAxN0wyMyA3QzIzIDUuOSAyMi4xIDUgMjEgNVpNOSAxMEMxMC42NiAxMCAxMiAxMS4zNCAxMiAxM0MxMiAxNC42NiAxMC42NiAxNiA5IDE2QzcuMzQgMTYgNiAxNC42NiA2IDEzQzYgMTEuMzQgNy4zNCAxMCA5IDEwWk0xNSAxM0wxNiAxMyAxNiAxMCAxOCAxMCAxOCAxNiAxNiAxNiAxNiAxNCAxNCAxNCAxNCAxMCAxNSAxMCAxNSAxM1oiIC8+PC9zdmc+" alt="Tech Stack">
+
 </div>
 
 
