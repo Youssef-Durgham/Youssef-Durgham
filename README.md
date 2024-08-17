@@ -38,6 +38,12 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       <br>CSS3
     </td>
     <td align="center" width="96">
+      <a href="#tailwind">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
       <a href="#js">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -67,14 +73,14 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       </a>
       <br>MongoDB
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#python">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#firebase">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
@@ -87,7 +93,12 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       </a>
       <br>Tauri
     </td>
-    <!-- Add more technologies here if needed -->
+    <td align="center" width="96">
+      <a href="#abap">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" width="48" height="48" alt="ABAP" />
+      </a>
+      <br>ABAP
+    </td>
   </tr>
 </table>
 
