@@ -14,8 +14,8 @@
 
 Visionary full-stack developer with a passion for transforming complex ideas into elegant, scalable solutions. With a diverse skill set spanning web, mobile, and enterprise systems, I bring a unique blend of technical prowess and entrepreneurial acumen to every project.
 
-- 🏢 **Founder, Codek Lab**: Spearheading innovation in app and system development
-- 🎓 **Founder, Studyrs**: Empowering the next generation of tech leaders
+- 🏢 **Founder, [Codek Lab](https://www.codeklab.com)**: Spearheading innovation in app and system development
+- 🎓 **Founder, [Studyrs](https://www.studyrs.com)**: Empowering the next generation of tech leaders
 - 💼 **ERP Specialist**: Revolutionizing business processes with cutting-edge solutions
 - 📊 **Crypto Enthusiast**: Bridging the gap between traditional finance and blockchain technology
 
@@ -50,6 +50,12 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       <br>React
     </td>
     <td align="center" width="96">
+      <a href="#reactnative">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center" width="96">
       <a href="#nodejs">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </a>
@@ -67,12 +73,21 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       </a>
       <br>Python
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#firebase">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
+    <td align="center" width="96">
+      <a href="#tauri">
+        <img src="https://raw.githubusercontent.com/tauri-apps/tauri/dev/app-icon.png" width="48" height="48" alt="Tauri" />
+      </a>
+      <br>Tauri
+    </td>
+    <!-- Add more technologies here if needed -->
   </tr>
 </table>
 
@@ -130,7 +145,7 @@ Built a comprehensive e-learning platform from the ground up, now serving 50,000
 <p align="center">
   <a href="mailto:hello@codeklab.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/youssef-durgham"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/youssefDurgham"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/youssefDurgham"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
