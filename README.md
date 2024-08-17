@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Founder-Codek%20Lab%20🚀-0366d6?style=for-the-badge&logo=react" alt="Codek Lab">
   </a>
   <a href="https://www.studyrs.com">
-    <img src="https://img.shields.io/badge/Creator-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
+    <img src="https://img.shields.io/badge/Founder-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
   </a>
   <!-- GitHub Stats -->
 <br><br>
