@@ -155,7 +155,7 @@ Built a comprehensive e-learning platform from the ground up, now serving 50,000
 
 - 🧠 Exploring the frontiers of AI and machine learning in software development
 - 🔗 Developing innovative blockchain solutions for supply chain management
-- 🚀 Scaling Studyrs to reach 1 million students by 2025
+- 🚀 Scaling Studyrs to reach 10000 students by end of 2025
 - 🌟 Contributing to open-source projects in the React and Node.js ecosystems
 
 ---
