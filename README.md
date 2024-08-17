@@ -147,6 +147,11 @@ Built a comprehensive e-learning platform from the ground up, now serving 50,000
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=algolia" alt="youssef-durgham" />
 </p>
+<p align="center">
+  <a href="https://github.com/youssef-durgham">
+    <img src="https://img.shields.io/github/commits-since/youssef-durgham/youssef-durgham/v0.0.0.svg?style=for-the-badge&logo=github&label=Total%20Commits&color=2988BC&logoColor=white" alt="Total Commits" />
+  </a>
+</p>
 
 ---
 
