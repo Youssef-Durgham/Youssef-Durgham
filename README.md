@@ -3,9 +3,25 @@
 </div>
 
 <p align="center">
-  <a href="https://www.codeklab.com"><img src="https://img.shields.io/badge/Founder-Codek%20Lab-blue?style=for-the-badge&logo=react" alt="Codek Lab"></a>
-  <a href="https://www.studyrs.com"><img src="https://img.shields.io/badge/Founder-Studyrs-green?style=for-the-badge&logo=javascript" alt="Studyrs"></a>
-  <a href="https://github.com/youssef-durgham"><img src="https://img.shields.io/github/followers/youssef-durgham?style=for-the-badge&logo=github" alt="GitHub followers"></a>
+  <a href="https://www.codeklab.com">
+    <img src="https://img.shields.io/badge/Founder-Codek%20Lab-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Codek Lab" />
+  </a>
+  <a href="https://www.studyrs.com">
+    <img src="https://img.shields.io/badge/Founder-Studyrs-34A853?style=for-the-badge&logo=javascript&logoColor=white" alt="Studyrs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/youssef-durgham?tab=followers">
+    <img src="https://img.shields.io/github/followers/youssef-durgham?label=Followers&style=for-the-badge&color=4285F4&logo=github&logoColor=white" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/youssef-durgham?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/youssef-durgham?label=Stars&style=for-the-badge&color=34A853&logo=github&logoColor=white" alt="GitHub Stars" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/youssef-durgham">
+    <img src="https://komarev.com/ghpvc/?username=youssef-durgham&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
 
 ---
