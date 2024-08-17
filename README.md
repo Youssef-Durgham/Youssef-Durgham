@@ -132,12 +132,20 @@ Built a comprehensive e-learning platform from the ground up, now serving 50,000
 
 ---
 
-### 📈 GitHub Analytics
-
+### 📊 GitHub Analytics
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=youssef-durgham&theme=darcula&hide_border=true&background=FFFFFF00">
+  <a href="https://github.com/youssef-durgham">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-durgham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/youssef-durgham">
+    <img src="https://github-profile-trophy.vercel.app/?username=youssef-durgham&margin-w=5&theme=algolia" alt="youssef-durgham" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=algolia" alt="youssef-durgham" />
 </p>
 
 ---
