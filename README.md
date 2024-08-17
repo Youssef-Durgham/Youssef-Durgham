@@ -3,19 +3,16 @@
 </div>
 
 <div align="center">
-  <!-- Custom SVG for Founder Roles -->
-  <svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .title { fill: #333; font-size: 18px; font-weight: bold; }
-      .company { fill: #0366d6; font-size: 24px; font-weight: bold; }
-      .icon { font-size: 32px; }
-    </style>
-    <rect width="100%" height="100%" fill="#f6f8fa" rx="10" ry="10"/>
-    <text x="20" y="40" class="title">Founder of</text>
-    <text x="20" y="80" class="company">Codek Lab <tspan class="icon">🚀</tspan></text>
-    <text x="250" y="40" class="title">Creator of</text>
-    <text x="250" y="80" class="company">Studyrs <tspan class="icon">📚</tspan></text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7EE&center=true&vCenter=true&width=435&lines=Youssef+Durgham;Full-Stack+Developer;ERP+Specialist;Tech+Entrepreneur" alt="Typing SVG" />
+</div>
+<div align="center">
+  <!-- Founder Badges -->
+  <a href="https://www.codeklab.com">
+    <img src="https://img.shields.io/badge/Founder-Codek%20Lab%20🚀-0366d6?style=for-the-badge&logo=react" alt="Codek Lab">
+  </a>
+  <a href="https://www.studyrs.com">
+    <img src="https://img.shields.io/badge/Creator-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
+  </a>
   <!-- GitHub Stats -->
 <br><br>
 <img src="https://img.shields.io/github/followers/youssef-durgham?style=for-the-badge&color=0366d6" alt="GitHub Followers">
@@ -25,6 +22,7 @@
 <br><br>
 <img src="https://img.shields.io/badge/Tech%20Enthusiast-Full%20Stack%20%7C%20ERP%20%7C%20Crypto-0366d6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA3TDIwIDE3TDQgMTdMNCA3TDIwIDdNMjEgNUwzIDVDMS45IDUgMSA1LjkgMSA3TDEgMTdDMSAxOC4xIDEuOSAxOSAzIDE5TDIxIDE5QzIyLjEgMTkgMjMgMTguMSAyMyAxN0wyMyA3QzIzIDUuOSAyMi4xIDUgMjEgNVpNOSAxMEMxMC42NiAxMCAxMiAxMS4zNCAxMiAxM0MxMiAxNC42NiAxMC42NiAxNiA5IDE2QzcuMzQgMTYgNiAxNC42NiA2IDEzQzYgMTEuMzQgNy4zNCAxMCA5IDEwWk0xNSAxM0wxNiAxMyAxNiAxMCAxOCAxMCAxOCAxNiAxNiAxNiAxNiAxNCAxNCAxNCAxNCAxMCAxNSAxMCAxNSAxM1oiIC8+PC9zdmc+" alt="Tech Stack">
 </div>
+
 
 ---
 
