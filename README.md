@@ -105,6 +105,12 @@ Visionary full-stack developer with a passion for transforming complex ideas int
       <br>ABAP
     </td>
     <td align="center" width="96">
+      <a href="#abap">
+        <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="48" height="48" alt="ABAP" />
+      </a>
+      <br>ABAP (RAP)
+    </td>
+    <td align="center" width="96">
       <a href="#sql">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
       </a>
