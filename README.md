@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   <!-- Founder Badges -->
-  <a href="https://www.codeklab.com">
-    <img src="https://img.shields.io/badge/Founder-Codek%20Lab%20🚀-0366d6?style=for-the-badge&logo=react" alt="Codek Lab">
+  <a href="http://www.qawiah.com">
+    <img src="https://img.shields.io/badge/Founder-Codek%20Lab%20🚀-0366d6?style=for-the-badge&logo=react" alt="qawiah (قوية للحلول البرمجية)">
   </a>
   <a href="https://www.studyrs.com">
     <img src="https://img.shields.io/badge/Founder-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
