@@ -4,7 +4,7 @@
 <div align="center">
   <!-- Founder Badges -->
   <a href="http://www.qawiah.com">
-    <img src="https://img.shields.io/badge/Founder-qawiah%20(قوية للحلول البرمجية)%20🚀-0366d6?style=for-the-badge&logo=react" alt="qawiah (قوية للحلول البرمجية)">
+    <img src="https://img.shields.io/badge/Founder-qawiah%20🚀-0366d6?style=for-the-badge&logo=react" alt="qawiah (قوية للحلول البرمجية)">
   </a>
   <a href="https://www.studyrs.com">
     <img src="https://img.shields.io/badge/Founder-Studyrs%20📚-0366d6?style=for-the-badge&logo=javascript" alt="Studyrs">
