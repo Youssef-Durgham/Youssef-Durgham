@@ -20,7 +20,7 @@
 
 Visionary full-stack developer with a passion for transforming complex ideas into elegant, scalable solutions. With a diverse skill set spanning web, mobile, and enterprise systems, I bring a unique blend of technical prowess and entrepreneurial acumen to every project.
 
-- 🏢 **Founder, [Codek Lab](https://www.codeklab.com)**: Spearheading innovation in app and system development
+- 🏢 **Founder, [qawiah (قوية للحلول البرمجية)](http://www.qawiah.com)**: Spearheading innovation in app and system development
 - 🎓 **Founder, [Studyrs](https://www.studyrs.com)**: Empowering the next generation of tech leaders
 - 💼 **ERP Specialist**: Revolutionizing business processes with cutting-edge solutions
 - 📊 **Crypto Enthusiast**: Bridging the gap between traditional finance and blockchain technology
