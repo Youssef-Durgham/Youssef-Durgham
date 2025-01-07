@@ -94,7 +94,7 @@ Visionary full-stack developer with a passion for transforming complex ideas int
     </td>
     <td align="center" width="96">
       <a href="#tauri">
-        <img src="https://tauri.app/img/index/header_dark.svg" width="48" height="48" alt="Tauri" />
+        <img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" width="48" height="48" alt="Tauri" />
       </a>
       <br>Tauri
     </td>
