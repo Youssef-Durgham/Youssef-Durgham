@@ -1,6 +1,6 @@
-<!-- ========== Hero Section ========== -->
+<!-- ========== HERO SECTION ========== -->
 <div align="center">
-  <!-- Main Title -->
+  <!-- Main Title & Subtitle -->
   <h1 style="font-size:3.5em; margin-bottom:0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00F7EE;">
     Youssef Durgham
   </h1>
@@ -9,29 +9,29 @@
   </p>
 
   <!-- Dynamic Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F76C6C&center=true&vCenter=true&width=800&lines=Innovating+with+Passion;Building+The+Future+of+Tech;Empowering+Businesses+and+Developers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F76C6C&center=true&vCenter=true&width=800&lines=Innovating+with+Passion;Building+the+Future+of+Tech;Empowering+Businesses+and+Developers" alt="Typing SVG" />
 
-  <!-- Cool Animated GIF Header -->
-  <img src="https://media.giphy.com/media/3o7TKrpgLjdFWLrjvy/giphy.gif" alt="Coding Animation" style="max-width:100%; height:auto; border-radius: 10px; margin-top:20px;">
+  <!-- Updated Animated GIF Header (Working) -->
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Animation" style="max-width:100%; height:auto; border-radius: 10px; margin-top:20px;">
 </div>
 
-<!-- ========== SVG Divider ========== -->
+<!-- ========== SVG DIVIDER ========== -->
 <div>
   <svg viewBox="0 0 1440 320">
     <path fill="#00F7EE" fill-opacity="1" d="M0,96L48,80C96,64,192,32,288,26.7C384,21,480,43,576,85.3C672,128,768,192,864,197.3C960,203,1056,149,1152,138.7C1248,128,1344,160,1392,176L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
   </svg>
 </div>
 
-<!-- ========== About Me Section ========== -->
-<div style="background: linear-gradient(90deg, #000851, #1CB5E0); padding: 30px; border-radius: 10px; color: #FFFFFF;">
+<!-- ========== ABOUT ME SECTION ========== -->
+<div style="background: linear-gradient(90deg, #000851, #1CB5E0); padding: 30px; border-radius: 10px; color: #FFFFFF; margin: 20px 0;">
   <h2 align="center">About Me</h2>
   <p align="center" style="font-size:1.2em; line-height:1.6;">
-    I'm <strong>Youssef Durgham</strong> – a passionate full-stack developer with over <strong>5 years</strong> of experience building innovative web, mobile, and desktop applications. My expertise spans from <strong>Node.js, JavaScript, MongoDB, Express.js, React, React Native, Next.js, Tailwind CSS, Tauri, SQL</strong> to ERP systems and even digital art using Procreate, Adobe Illustrator, and Figma. I’ve collaborated with organizations like <strong>World Islamic Bank</strong>, <strong>Alreda Holding Company</strong>, and <strong>SPC</strong>, while also founding my own agencies.
+    I'm <strong>Youssef Durgham</strong> – a passionate full-stack developer with over <strong>5 years</strong> of experience building innovative web, mobile, and desktop applications. I work with technologies such as <strong>Node.js, JavaScript, MongoDB, Express.js, React, React Native, Next.js, Tailwind CSS, Tauri, SQL</strong> and more. My career spans leading roles at organizations like <strong>World Islamic Bank</strong>, <strong>Alreda Holding Company</strong>, and <strong>SPC</strong>, alongside founding my own agencies.
   </p>
 </div>
 
-<!-- ========== Founder Badges ========== -->
-<div align="center" style="margin-top: 20px;">
+<!-- ========== FOUNDER BADGES ========== -->
+<div align="center" style="margin: 20px 0;">
   <a href="http://www.qawiah.com" target="_blank">
     <img src="https://img.shields.io/badge/Founder-qawiah%20🚀-0366d6?style=for-the-badge&logo=react" alt="qawiah (قوية للحلول البرمجية)">
   </a>
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-<!-- ========== Tech Stack Section ========== -->
+<!-- ========== TECH STACK SECTION ========== -->
 <div style="margin-top: 40px;">
   <h2 align="center">🛠️ My Tech Stack</h2>
   <table align="center">
@@ -106,42 +106,44 @@
   </table>
 </div>
 
-<!-- ========== Experience & Projects Timeline ========== -->
+<!-- ========== FEATURED REPOSITORIES SECTION ========== -->
 <div style="margin-top: 40px;">
-  <h2 align="center">🚀 Experience & Projects</h2>
-  <ul>
-    <li>
-      <strong>World Islamic Bank (2020 – 2022):</strong> Developed enterprise-grade applications and ERP systems that streamlined complex business processes.
-    </li>
-    <li>
-      <strong>Freelancer (2022 – Present):</strong> Delivered custom full-stack solutions for a diverse range of clients—from startups to large enterprises.
-    </li>
-    <li>
-      <strong>Alreda Holding Company (2023 – Present):</strong> Spearheading innovative projects across multiple subsidiaries (e.g., Badour Residential Complexes, Najaf Hospital, Karbala Airport).
-    </li>
-    <li>
-      <strong>SPC (Solution Portal Company) (2024 – Present, Part-time):</strong> Providing expert software development consulting for strategic tech initiatives.
-    </li>
-    <li>
-      <strong>Founder of Studyrs:</strong> A transformative training center empowering students to become proficient programmers. 
-      <a href="https://www.studyrs.com" target="_blank">Visit Studyrs</a>
-    </li>
-    <li>
-      <strong>Founder of Codeklab:</strong> An agency delivering innovative app and system development solutions.
-      <a href="https://www.codeklab.com" target="_blank">Visit Codeklab</a>
+  <h2 align="center">📌 Featured Repositories</h2>
+  <p align="center">
+    <!-- Replace "YourRepoName" with your actual repo names -->
+    <a href="https://github.com/youssef-durgham/YourRepoName" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-durgham&repo=YourRepoName&theme=algolia" alt="Featured Repository 1" />
+    </a>
+    <a href="https://github.com/youssef-durgham/AnotherRepoName" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-durgham&repo=AnotherRepoName&theme=algolia" alt="Featured Repository 2" />
+    </a>
+  </p>
+</div>
+
+<!-- ========== EXPERIENCE & TIMELINE SECTION ========== -->
+<div style="margin-top: 40px;">
+  <h2 align="center">🚀 Experience & Timeline</h2>
+  <ul style="line-height: 1.8; font-size:1.1em;">
+    <li><strong>2020 – 2022:</strong> World Islamic Bank – Developed enterprise-grade ERP solutions.</li>
+    <li><strong>2022 – Present:</strong> Freelance Developer – Delivered custom full-stack solutions for diverse clients.</li>
+    <li><strong>2023 – Present:</strong> Alreda Holding Company – Spearheading tech innovations across multiple projects (e.g., residential complexes, hospitals, airports).</li>
+    <li><strong>2024 – Present (Part-time):</strong> SPC – Providing expert software development consulting.</li>
+    <li><strong>Founder:</strong> 
+      <a href="https://www.studyrs.com" target="_blank">Studyrs</a> – Empowering the next generation of programmers.<br>
+      <a href="https://www.codeklab.com" target="_blank">Codeklab</a> – Delivering cutting-edge app and system development solutions.
     </li>
   </ul>
 </div>
 
-<!-- ========== Continuous Learning Section ========== -->
+<!-- ========== CONTINUOUS LEARNING SECTION ========== -->
 <div style="margin-top: 40px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <h2 align="center">🌱 Continuous Learning</h2>
   <p align="center" style="font-size:1.1em;">
-    I’m committed to evolving with the tech landscape—currently diving deep into <strong>Python, artificial intelligence, machine learning,</strong> and <strong>neural networks</strong> to build smarter, more intuitive systems.
+    I’m constantly evolving with the tech landscape – currently diving deep into <strong>Python, Artificial Intelligence, Machine Learning</strong>, and <strong>Neural Networks</strong> to build smarter, more intuitive systems.
   </p>
 </div>
 
-<!-- ========== GitHub Analytics Section ========== -->
+<!-- ========== GITHUB ANALYTICS SECTION ========== -->
 <div style="margin-top: 40px;">
   <h2 align="center">📊 GitHub Analytics</h2>
   <p align="center">
@@ -156,7 +158,7 @@
   </p>
 </div>
 
-<!-- ========== Connect With Me Section ========== -->
+<!-- ========== LET'S CONNECT SECTION ========== -->
 <div style="margin-top: 40px; text-align: center;">
   <h2>🤝 Let's Connect</h2>
   <p>
@@ -175,7 +177,7 @@
   </p>
 </div>
 
-<!-- ========== Footer ========== -->
+<!-- ========== FOOTER ========== -->
 <div style="margin-top: 40px;">
   <h3 align="center">💻 Crafting the future, one commit at a time 💻</h3>
 </div>
