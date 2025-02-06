@@ -11,8 +11,8 @@
   <!-- Dynamic Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F76C6C&center=true&vCenter=true&width=800&lines=Innovating+with+Passion;Building+the+Future+of+Tech;Empowering+Businesses+and+Developers" alt="Typing SVG" />
 
-  <!-- Updated Animated GIF Header (Working) -->
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Animation" style="max-width:100%; height:auto; border-radius: 10px; margin-top:20px;">
+  <!-- Updated Animated GIF Header with fixed size -->
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Animation" style="max-width:600px; width:100%; display:block; margin:20px auto; border-radius: 10px;">
 </div>
 
 <!-- ========== SVG DIVIDER ========== -->
@@ -106,11 +106,12 @@
   </table>
 </div>
 
-<!-- ========== FEATURED REPOSITORIES SECTION ========== -->
+<!-- ========== FEATURED REPOSITORIES SECTION (Optional) ==========
+If you have featured repositories to showcase, replace the placeholders below
+with your actual repository names. Otherwise, you can leave this section commented out.
 <div style="margin-top: 40px;">
   <h2 align="center">📌 Featured Repositories</h2>
   <p align="center">
-    <!-- Replace "YourRepoName" with your actual repo names -->
     <a href="https://github.com/youssef-durgham/YourRepoName" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-durgham&repo=YourRepoName&theme=algolia" alt="Featured Repository 1" />
     </a>
@@ -119,18 +120,43 @@
     </a>
   </p>
 </div>
+============================================================= -->
 
 <!-- ========== EXPERIENCE & TIMELINE SECTION ========== -->
 <div style="margin-top: 40px;">
   <h2 align="center">🚀 Experience & Timeline</h2>
-  <ul style="line-height: 1.8; font-size:1.1em;">
-    <li><strong>2020 – 2022:</strong> World Islamic Bank – Developed enterprise-grade ERP solutions.</li>
-    <li><strong>2022 – Present:</strong> Freelance Developer – Delivered custom full-stack solutions for diverse clients.</li>
-    <li><strong>2023 – Present:</strong> Alreda Holding Company – Spearheading tech innovations across multiple projects (e.g., residential complexes, hospitals, airports).</li>
-    <li><strong>2024 – Present (Part-time):</strong> SPC – Providing expert software development consulting.</li>
-    <li><strong>Founder:</strong> 
-      <a href="https://www.studyrs.com" target="_blank">Studyrs</a> – Empowering the next generation of programmers.<br>
-      <a href="https://www.codeklab.com" target="_blank">Codeklab</a> – Delivering cutting-edge app and system development solutions.
+  <ul style="line-height: 1.8; font-size:1.1em; list-style-type: none; padding: 0;">
+    <li>
+      <strong>2020 – 2022:</strong><br>
+      💼 <strong>World Islamic Bank</strong><br>
+      • Developed enterprise-grade ERP solutions and applications.<br>
+      • Streamlined complex business processes.
+    </li>
+    <br>
+    <li>
+      <strong>2022 – Present:</strong><br>
+      💻 <strong>Freelance Developer</strong><br>
+      • Delivered custom full-stack solutions for diverse clients.<br>
+      • Adapted solutions for startups to large enterprises.
+    </li>
+    <br>
+    <li>
+      <strong>2023 – Present:</strong><br>
+      🏢 <strong>Alreda Holding Company</strong><br>
+      • Spearheaded tech innovations across multiple projects (residential complexes, hospitals, airports).<br>
+      • Coordinated cross-functional teams for modern implementations.
+    </li>
+    <br>
+    <li>
+      <strong>2024 – Present (Part-time):</strong><br>
+      🤝 <strong>SPC (Solution Portal Company)</strong><br>
+      • Provided expert software development consulting for strategic initiatives.
+    </li>
+    <br>
+    <li>
+      <strong>Founder:</strong><br>
+      🚀 <strong>Studyrs</strong> – Empowering the next generation of programmers (<a href="https://www.studyrs.com" target="_blank">Visit Studyrs</a>)<br>
+      💡 <strong>Codeklab</strong> – Delivering innovative app & system development solutions (<a href="https://www.codeklab.com" target="_blank">Visit Codeklab</a>)
     </li>
   </ul>
 </div>
