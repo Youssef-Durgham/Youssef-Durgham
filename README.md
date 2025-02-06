@@ -46,64 +46,42 @@
 <!-- ========== TECH STACK SECTION ========== -->
 <div style="margin-top: 40px;">
   <h2 align="center">🛠️ My Tech Stack</h2>
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5"/><br>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" alt="CSS3"/><br>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" alt="Tailwind CSS"/><br>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/><br>JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" alt="React"/><br>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" alt="React Native"/><br>React Native
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60" alt="MongoDB"/><br>MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/><br>Python
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="60" alt="Next.js"/><br>Next.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" width="60" alt="Tauri"/><br>Tauri
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" alt="SQL"/><br>SQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="60" alt="SAP"/><br>SAP B1/S4HANA
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="60" alt="Figma"/><br>Figma
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="60" alt="Adobe Illustrator"/><br>Illustrator
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Procreate_Logo.png" width="60" alt="Procreate"/><br>Procreate
-      </td>
-    </tr>
-  </table>
+ <table>
+      <tr>
+        <th style="padding: 10px;">2025</th>
+        <th style="padding: 10px;">2024</th>
+        <th style="padding: 10px;">2023</th>
+        <th style="padding: 10px;">2022</th>
+        <th style="padding: 10px;">2021</th>
+      </tr>
+      <tr>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2025/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="GitHub Contribution Chart 2025" style="max-width:100%;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2024/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="GitHub Contribution Chart 2024" style="max-width:100%;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2023/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="GitHub Contribution Chart 2023" style="max-width:100%;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2022/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2022/youssef-durgham" alt="GitHub Contribution Chart 2022" style="max-width:100%;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2021/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2021/youssef-durgham" alt="GitHub Contribution Chart 2021" style="max-width:100%;" />
+          </a>
+        </td>
+      </tr>
+    </table>
 </div>
 
 <!-- ========== EXPERIENCE & TIMELINE SECTION ========== -->
@@ -157,12 +135,18 @@
 <div style="margin-top: 40px; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h2 align="center">📊 GitHub Analytics</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:350px; max-width:100%;" />
+    <!-- Stats Card: includes all commits (note: GitHub API returns contributions for the last year only) -->
+    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:350px; max-width:100%;" />
+    <!-- Top Languages Card -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" style="width:350px; max-width:100%;" />
   </div>
   <div style="margin-top: 20px; text-align: center;">
-    <!-- Updated streak stats with "dark" theme -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=dark&hide_border=true" alt="Streak Stats" style="width:350px; max-width:100%;" />
+    <!-- Updated Streak Stats Card with explicit date format -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" style="width:350px; max-width:100%;" />
+  </div>
+  <div style="margin-top: 20px; text-align: center;">
+    <!-- Additional Activity Graph Card to show commit trends over time -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-durgham&theme=github" alt="Activity Graph" style="width:350px; max-width:100%;" />
   </div>
 </div>
 
@@ -172,23 +156,11 @@
   <div align="center">
     <table>
       <tr>
-        <th style="padding: 10px;">2025</th>
-        <th style="padding: 10px;">2024</th>
         <th style="padding: 10px;">2023</th>
         <th style="padding: 10px;">2022</th>
         <th style="padding: 10px;">2021</th>
       </tr>
       <tr>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2025/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="GitHub Contribution Chart 2025" style="max-width:100%;" />
-          </a>
-        </td>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2024/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="GitHub Contribution Chart 2024" style="max-width:100%;" />
-          </a>
-        </td>
         <td style="padding: 10px;">
           <a href="https://ghchart.rshah.org/2023/youssef-durgham" target="_blank">
             <img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="GitHub Contribution Chart 2023" style="max-width:100%;" />
