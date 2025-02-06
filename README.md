@@ -156,20 +156,12 @@
 <!-- ========== GITHUB ANALYTICS SECTION ========== -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  
-  <!-- All-time Commits Badge -->
-  <p>
-    <img src="https://img.shields.io/badge/All--Time%20Commits-{YOUR_TOTAL_COMMITS}-blue?style=for-the-badge&logo=github" alt="Total Commits"/>
-  </p>
 
   <!-- GitHub Stats - Current Year -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&bg_color=0D1117&disable_animations=true&card_width=495" alt="Youssef's GitHub Stats"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&theme=dracula&show_icons=true&card_width=495" alt="Youssef's GitHub Stats"/>
 
   <!-- Most Used Languages -->
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117" alt="Youssef's Top Languages"/>
-
-  <!-- GitHub Streak Stats -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true&background=0D1117" alt="Youssef's GitHub Streak"/>
 
   <!-- Contribution Graph -->
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-durgham&theme=radical&hide_border=true&bg_color=0D1117&area=true" alt="Youssef's Contribution Graph"/>
