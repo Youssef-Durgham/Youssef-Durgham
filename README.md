@@ -195,49 +195,7 @@
   <img src="https://komarev.com/ghpvc/?username=youssef-durgham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<!-- ========== CONTRIBUTION HEATMAP SECTION ========== -->
-<div style="margin-top: 40px; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h2 align="center">🔥 Daily Contribution Heatmap</h2>
-  <div align="center">
-<table>
-      <tr>
-        <th style="padding: 10px;">2025</th>
-        <th style="padding: 10px;">2024</th>
-        <th style="padding: 10px;">2023</th>
-        <th style="padding: 10px;">2022</th>
-        <th style="padding: 10px;">2021</th>
-      </tr>
-      <tr>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2025/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="GitHub Contribution Chart 2025" style="max-width:100%;" />
-          </a>
-        </td>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2024/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="GitHub Contribution Chart 2024" style="max-width:100%;" />
-          </a>
-        </td>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2023/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="GitHub Contribution Chart 2023" style="max-width:100%;" />
-          </a>
-        </td>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2022/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2022/youssef-durgham" alt="GitHub Contribution Chart 2022" style="max-width:100%;" />
-          </a>
-        </td>
-        <td style="padding: 10px;">
-          <a href="https://ghchart.rshah.org/2021/youssef-durgham" target="_blank">
-            <img src="https://ghchart.rshah.org/2021/youssef-durgham" alt="GitHub Contribution Chart 2021" style="max-width:100%;" />
-          </a>
-        </td>
-      </tr>
-    </table>
-    <p style="font-size: 0.9em; margin-top: 10px;">Click on any chart to view in full size.</p>
-  </div>
-</div>
+
 
 <!-- ========== LET'S CONNECT SECTION ========== -->
 <div style="margin-top: 40px; text-align: center;">
