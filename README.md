@@ -154,22 +154,34 @@
 </div>
 
 <!-- ========== GITHUB ANALYTICS SECTION ========== -->
-<div style="margin-top: 40px; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <h2 align="center">📊 GitHub Analytics</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <!-- Stats Card: includes all commits (note: GitHub API returns contributions for the last year only) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:350px; max-width:100%;" />
-    <!-- Top Languages Card -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" style="width:350px; max-width:100%;" />
-  </div>
-  <div style="margin-top: 20px; text-align: center;">
-    <!-- Updated Streak Stats Card with explicit date format -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" style="width:350px; max-width:100%;" />
-  </div>
-  <div style="margin-top: 20px; text-align: center;">
-    <!-- Additional Activity Graph Card to show commit trends over time -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-durgham&theme=github" alt="Activity Graph" style="width:350px; max-width:100%;" />
-  </div>
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+
+  <!-- Lifetime Commits Badge -->
+  <p align="center">
+    <img src="./lifetime-commits.svg" alt="Total Lifetime Commits" />
+  </p>
+  
+  <!-- Main Stats Side by Side -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true" width="400" alt="GitHub Streak Stats" />
+  </p>
+  
+  <!-- Language Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400" alt="Most Used Languages" />
+  </p>
+
+  <!-- Contribution Graph -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-durgham&theme=radical" width="800" alt="Contribution Graph" />
+  </p>
+
+  <!-- Annual Contribution Calendar -->
+  <p align="center">
+    <img src="https://ghchart.rshah.org/youssef-durgham" alt="2024 GitHub Contributions" width="800" />
+  </p>
 </div>
 
 <!-- ========== CONTRIBUTION HEATMAP SECTION ========== -->
