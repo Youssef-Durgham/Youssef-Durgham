@@ -172,11 +172,23 @@
   <div align="center">
     <table>
       <tr>
+        <th style="padding: 10px;">2025</th>
+        <th style="padding: 10px;">2024</th>
         <th style="padding: 10px;">2023</th>
         <th style="padding: 10px;">2022</th>
         <th style="padding: 10px;">2021</th>
       </tr>
       <tr>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2025/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="GitHub Contribution Chart 2025" style="max-width:100%;" />
+          </a>
+        </td>
+        <td style="padding: 10px;">
+          <a href="https://ghchart.rshah.org/2024/youssef-durgham" target="_blank">
+            <img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="GitHub Contribution Chart 2024" style="max-width:100%;" />
+          </a>
+        </td>
         <td style="padding: 10px;">
           <a href="https://ghchart.rshah.org/2023/youssef-durgham" target="_blank">
             <img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="GitHub Contribution Chart 2023" style="max-width:100%;" />
