@@ -156,32 +156,34 @@
 <!-- ========== GITHUB ANALYTICS SECTION ========== -->
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-
-  <!-- Lifetime Commits Badge -->
-  <p align="center">
-    <img src="./lifetime-commits.svg" alt="Total Lifetime Commits" />
-  </p>
   
-  <!-- Main Stats Side by Side -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true" width="400" alt="GitHub Streak Stats" />
-  </p>
-  
-  <!-- Language Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400" alt="Most Used Languages" />
-  </p>
+  <!-- GitHub Stats Card - Now showing all-time stats -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&bg_color=0D1117" alt="Youssef's GitHub Stats"/>
 
-  <!-- Contribution Graph -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssef-durgham&theme=radical" width="800" alt="Contribution Graph" />
-  </p>
+  <!-- Most Used Languages - Compact layout -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117" alt="Youssef's Top Languages"/>
 
-  <!-- Annual Contribution Calendar -->
-  <p align="center">
-    <img src="https://ghchart.rshah.org/youssef-durgham" alt="2024 GitHub Contributions" width="800" />
-  </p>
+  <!-- GitHub Streak Stats - Updated with matching theme -->
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true&background=0D1117" alt="Youssef's GitHub Streak"/>
+
+  <!-- GitHub Activity Graph - Using the more reliable github-readme-activity-graph -->
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-durgham&theme=radical&hide_border=true&bg_color=0D1117&area=true" alt="Youssef's Contribution Graph"/>
+
+  <!-- Contribution Calendar for Last 5 Years -->
+  <h3>📅 Contribution Calendar</h3>
+  <table>
+    <tr>
+      <td><img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="2025 GitHub Contributions" /></td>
+      <td><img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="2024 GitHub Contributions" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="2023 GitHub Contributions" /></td>
+      <td><img src="https://ghchart.rshah.org/2022/youssef-durgham" alt="2022 GitHub Contributions" /></td>
+    </tr>
+  </table>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=youssef-durgham&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- ========== CONTRIBUTION HEATMAP SECTION ========== -->
