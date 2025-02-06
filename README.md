@@ -11,7 +11,7 @@
   <!-- Dynamic Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F76C6C&center=true&vCenter=true&width=800&lines=Innovating+with+Passion;Building+the+Future+of+Tech;Empowering+Businesses+and+Developers" alt="Typing SVG" />
 
-  <!-- Updated Animated GIF Header with fixed size -->
+  <!-- Animated GIF Header with fixed size -->
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Coding Animation" style="max-width:600px; width:100%; display:block; margin:20px auto; border-radius: 10px;">
 </div>
 
@@ -106,22 +106,6 @@
   </table>
 </div>
 
-<!-- ========== FEATURED REPOSITORIES SECTION (Optional) ==========
-If you have featured repositories to showcase, replace the placeholders below
-with your actual repository names. Otherwise, you can leave this section commented out.
-<div style="margin-top: 40px;">
-  <h2 align="center">📌 Featured Repositories</h2>
-  <p align="center">
-    <a href="https://github.com/youssef-durgham/YourRepoName" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-durgham&repo=YourRepoName&theme=algolia" alt="Featured Repository 1" />
-    </a>
-    <a href="https://github.com/youssef-durgham/AnotherRepoName" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=youssef-durgham&repo=AnotherRepoName&theme=algolia" alt="Featured Repository 2" />
-    </a>
-  </p>
-</div>
-============================================================= -->
-
 <!-- ========== EXPERIENCE & TIMELINE SECTION ========== -->
 <div style="margin-top: 40px;">
   <h2 align="center">🚀 Experience & Timeline</h2>
@@ -170,18 +154,24 @@ with your actual repository names. Otherwise, you can leave this section comment
 </div>
 
 <!-- ========== GITHUB ANALYTICS SECTION ========== -->
-<div style="margin-top: 40px;">
+<div style="margin-top: 40px; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <h2 align="center">📊 GitHub Analytics</h2>
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=youssef-durgham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=youssef-durgham&margin-w=5&theme=algolia" alt="Trophies"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=algolia" alt="Streak Stats"/>
-  </p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:350px; max-width:100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" style="width:350px; max-width:100%;" />
+  </div>
+  <div style="margin-top: 20px; text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true" alt="Streak Stats" style="width:350px; max-width:100%;" />
+  </div>
+</div>
+
+<!-- ========== CONTRIBUTION HEATMAP SECTION ========== -->
+<div style="margin-top: 40px; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <h2 align="center">🔥 Daily Contribution Heatmap</h2>
+  <div align="center">
+    <!-- Replace "youssef-durgham" with your GitHub username if needed -->
+    <img src="https://ghchart.rshah.org/youssef-durgham" alt="GitHub Contribution Chart" style="max-width:100%;" />
+  </div>
 </div>
 
 <!-- ========== LET'S CONNECT SECTION ========== -->
