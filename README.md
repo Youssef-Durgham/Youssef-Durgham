@@ -157,26 +157,35 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <!-- GitHub Stats Card - Now showing all-time stats -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&bg_color=0D1117" alt="Youssef's GitHub Stats"/>
+  <!-- All-time Commits Badge -->
+  <p>
+    <img src="https://img.shields.io/badge/All--Time%20Commits-{YOUR_TOTAL_COMMITS}-blue?style=for-the-badge&logo=github" alt="Total Commits"/>
+  </p>
 
-  <!-- Most Used Languages - Compact layout -->
+  <!-- GitHub Stats - Current Year -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=youssef-durgham&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&bg_color=0D1117&disable_animations=true&card_width=495" alt="Youssef's GitHub Stats"/>
+
+  <!-- Most Used Languages -->
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-durgham&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0D1117" alt="Youssef's Top Languages"/>
 
-  <!-- GitHub Streak Stats - Updated with matching theme -->
+  <!-- GitHub Streak Stats -->
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-durgham&theme=radical&hide_border=true&background=0D1117" alt="Youssef's GitHub Streak"/>
 
-  <!-- GitHub Activity Graph - Using the more reliable github-readme-activity-graph -->
+  <!-- Contribution Graph -->
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=youssef-durgham&theme=radical&hide_border=true&bg_color=0D1117&area=true" alt="Youssef's Contribution Graph"/>
 
-  <!-- Contribution Calendar for Last 5 Years -->
-  <h3>📅 Contribution Calendar</h3>
+  <!-- Multi-year Contribution Calendar -->
+  <h3>📅 Contribution History</h3>
   <table>
+    <tr>
+      <td align="center">2025</td>
+      <td align="center">2024</td>
+      <td align="center">2023</td>
+      <td align="center">2022</td>
+    </tr>
     <tr>
       <td><img src="https://ghchart.rshah.org/2025/youssef-durgham" alt="2025 GitHub Contributions" /></td>
       <td><img src="https://ghchart.rshah.org/2024/youssef-durgham" alt="2024 GitHub Contributions" /></td>
-    </tr>
-    <tr>
       <td><img src="https://ghchart.rshah.org/2023/youssef-durgham" alt="2023 GitHub Contributions" /></td>
       <td><img src="https://ghchart.rshah.org/2022/youssef-durgham" alt="2022 GitHub Contributions" /></td>
     </tr>
